@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Tutorial_ML_DL", "Tutorial_ML_DL.pyproj", "{501A4AC2-2600-40A1-A229-3AD6B446E994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{501A4AC2-2600-40A1-A229-3AD6B446E994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501A4AC2-2600-40A1-A229-3AD6B446E994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03A54061-061A-4135-8599-A21F7C09071E}
+	EndGlobalSection
+EndGlobal
