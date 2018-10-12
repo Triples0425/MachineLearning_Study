@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>501a4ac2-2600-40a1-a229-3ad6b446e994</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>AI_with_Python_FollowingBook.py</StartupFile>
+    <StartupFile>Tutorial_ML_DL.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>

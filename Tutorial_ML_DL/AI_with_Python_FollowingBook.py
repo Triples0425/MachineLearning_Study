@@ -30,5 +30,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 from sklearn.naive_bayes import GaussianNB
-from sklearn.model_selection.cross_val_score import cross_validation
+from sklearn import cross_validation
+
+from utilities import visualize_classifier
 
